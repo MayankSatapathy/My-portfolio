@@ -68,5 +68,9 @@ a:visited{
 }
 
 .item:hover p{
-    opacity: 0.66;  
+    opacity: 1;  
+}
+
+.item:hover img{
+    opacity: 0.33;
 }
